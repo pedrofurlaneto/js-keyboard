@@ -4,7 +4,7 @@ function playNote(event) {
     let audioKeyCode = getKeyCode(event);
     const key = document.querySelector(`.key[data-key="${audioKeyCode}"]`)
 
-    if(key == false) {
+    if(key == null) {
         return;
     }
 
