@@ -41,8 +41,6 @@ function playAudio(audioKeyCode) {
 
 function eventRegister() {
     //mouse
-    console.log(keys[1])
-
     for(key of keys) {
         key.addEventListener('click', playNote)
         key.addEventListener('transitionend', removePlayingClass)
