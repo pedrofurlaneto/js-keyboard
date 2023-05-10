@@ -12,6 +12,8 @@ You can play the keyboard in two ways:
 **Black keys**: W, E, R, T, Y <br>
 **White keys**: A, S, D, F, G, H
 
+Try it by [clicking here](https://1canas.github.io/js-keyboard/)
+
 <img width="300" alt="keyboard print" src="https://i.ibb.co/s9Pnvg0/Captura-de-tela-de-2022-06-01-15-34-04.png" />
 
 Let the music begin! 🎶 Have a blast playing the Musical Keyboard and unleash your creativity. 
