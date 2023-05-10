@@ -1,25 +1,21 @@
-<h1 align="center">Musical Keyboard 🎹</h1>
-<div>
-  <img align="center" src="https://simpleicons.org/icons/javascript.svg" alt="js-logo" height="35px"> • 
-  <a href="https://github.com/1canas/logical-algorithms-and-data-structures/stargazers">
-    <img align="center" alt="Stargazers" src="https://img.shields.io/github/stars/1canas/logical-algorithms-and-data-structures">
-  </a>
-</div>
+# 🎹 Musical Keyboard 🎹
 
-### ___Digital keyboard made in Js Vanilla___ ✨
-Project developed for learning event manipulation and sound effects application in Javascript. 
-<br>
+### 🎵 Digital keyboard made in Js Vanilla 🎵
+Welcome to the Musical Keyboard! 🎉 This project was developed as a part for explore event manipulation and sound effects application using JavaScript. It offers an interactive and enjoyable experience of playing a digital keyboard.
 
-### How to use 🤔
-You can use by click or by your keyboard - <br>
-**Black keys**:  W E R T Y <br>
-**White keys**: A S D F G H <br>
+### How to use 🎹
+You can play the keyboard in two ways:
 
-<img src="https://i.ibb.co/s9Pnvg0/Captura-de-tela-de-2022-06-01-15-34-04.png" width="100%">
+**Clicking on the keys**: Simply use your mouse to click on the keys displayed on the screen. <br>
+**Using your computer keyboard**: Take it up a notch by using your computer keyboard to play the Musical Keyboard. <br>
 
-<a href="https://github.com/1canas">
-  <img align="center" alt="Made by canas" src="https://img.shields.io/badge/made%20by-canas-%237519C1">
-</a>
-<br>
+**Black keys**: W, E, R, T, Y <br>
+**White keys**: A, S, D, F, G, H
+
+<img width="300" alt="keyboard print" src="https://i.ibb.co/s9Pnvg0/Captura-de-tela-de-2022-06-01-15-34-04.png" />
+
+Let the music begin! 🎶 Have a blast playing the Musical Keyboard and unleash your creativity. 
+
+Have fun playing the Musical Keyboard! 🎉🎉
 
 :)
